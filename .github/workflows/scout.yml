@@ -1,0 +1,20 @@
+name: Nightly Scout
+on:
+  schedule:
+    - cron: '0 0,4,8 * * *' # Runs 3x nightly
+  workflow_dispatch: # Allows you to press a button to start it manually
+jobs:
+  run-scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - sudo pip install anthropic
+      - run: python research_scout.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - run: |
+          git config user.name "ScoutBot"
+          git config user.email "bot@github.com"
+          git add .
+          git commit -m "Scout updated memory"
+          git push
