@@ -1,13 +1,16 @@
 name: Nightly Scout
 on:
   schedule:
-    - cron: '0 0,4,8 * * *' # Runs 3x nightly
-  workflow_dispatch: # Allows you to press the button manually
+    - cron: '0 0,4,8 * * *' 
+  workflow_dispatch: 
 jobs:
   run-scout:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    # This line tells GitHub to use the newer Node.js 24 engine
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
 
