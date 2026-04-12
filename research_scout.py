@@ -13,7 +13,7 @@ try:
     
     # 2. Simple test call
     response = client.messages.create(
-        model="claude-3-5-sonnet-20240620",
+        model="claude-3-5-sonnet-latest",
         max_tokens=100,
         messages=[{"role": "user", "content": "Search Reddit for one new AI tool today."}]
     )
