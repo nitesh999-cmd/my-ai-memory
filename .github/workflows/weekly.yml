@@ -1,37 +1,37 @@
-import os
-import sys
-from anthropic import Anthropic  # ✅ Fixed: Added Anthropic here
+name: Weekly Review
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch: 
 
-api_key = os.environ.get("ANTHROPIC_API_KEY")
-if not api_key:
-    print("❌ API Key missing")
-    sys.exit(1)
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-client = Anthropic(api_key=api_key)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-# 1. Read the raw research notes
-try:
-    with open("long-term-memory.md", "r") as f:
-        raw_notes = f.read()
-except FileNotFoundError:
-    raw_notes = "No notes found yet."
+      - name: Install dependencies
+        run: pip install anthropic
 
-# 2. Ask Claude 4.6 to summarize
-prompt = f"Review these research notes and create a high-level summary of the top 3 most important updates. Notes:\n{raw_notes}"
+      - name: Run Weekly Review Script
+        run: python weekly_review.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-response = client.messages.create(
-    model="claude-sonnet-4-6",
-    max_tokens=1000,
-    messages=[{"role": "user", "content": prompt}]
-)
-
-# 3. Save summary and clear staging area
-with open("project_updates.md", "a") as f:
-    # ✅ Fixed: Added [0] to match the 2026 library version
-    f.write(f"\n## Weekly Summary ({os.popen('date +%Y-%m-%d').read().strip()})\n{response.content[0].text}\n")
-
-# Clear the old notes so next week starts fresh
-with open("long-term-memory.md", "w") as f:
-    f.write("# Long Term Memory\n")
-
-print("✅ Weekly review complete. Summary saved to project_updates.md")
+      - name: Save and Commit Changes
+        run: |
+          git config user.name "ReviewBot"
+          git config user.email "bot@github.com"
+          git add .
+          git commit -m "Weekly review: Promoted new learnings" || echo "No changes to commit"
+          git push
