@@ -1,21 +1,28 @@
 import os
+import sys
 from anthropic import Anthropic
-from datetime import datetime
 
-# Setup
-client = Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
-MEMORY_FILE = "long-term-memory.md"
+# 1. Check if the key is actually there
+api_key = os.environ.get("ANTHROPIC_API_KEY")
+if not api_key:
+    print("❌ ERROR: API Key is missing! Check your GitHub Secrets.")
+    sys.exit(1)
 
-# The "Hunt" Instructions
-prompt = "Search Reddit and Hacker News for new AI tools or updates. If found, list as: [DATE] | [URL] | [NOTE]. If nothing new, say 'No updates'."
+try:
+    client = Anthropic(api_key=api_key)
+    
+    # 2. Simple test call
+    response = client.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=100,
+        messages=[{"role": "user", "content": "Search Reddit for one new AI tool today."}]
+    )
+    
+    # 3. Save it
+    with open("long-term-memory.md", "a") as f:
+        f.write(f"\n- {response.content[0].text}\n")
+    print("✅ Success! Findings saved.")
 
-# Ask Claude
-response = client.messages.create(
-    model="claude-3-5-sonnet-20240620",
-    max_tokens=500,
-    messages=[{"role": "user", "content": prompt}]
-)
-
-# Save the answer
-with open(MEMORY_FILE, "a") as f:
-    f.write(f"\n{response.content[0].text}\n")
+except Exception as e:
+    print(f"❌ ERROR: {e}")
+    sys.exit(1)
