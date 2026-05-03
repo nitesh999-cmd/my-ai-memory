@@ -32,3 +32,31 @@ Despite the limitations, the AI repeatedly points users toward the same self-ser
 ---
 
 > **⚠️ Notable Observation:** These notes contain **no meaningful unique updates** — all 15+ entries are near-identical repetitions of the same response. The notes may reflect a data collection or logging issue worth investigating.
+
+## Weekly Summary (2026-05-03)
+# Summary of Research Notes: Top 3 Key Findings
+
+---
+
+## 1. Real-Time Internet Access Is Not Possible
+The most critical and consistently repeated finding across **all notes** is that the AI system has **no ability to browse the internet, access Reddit, or retrieve current/live information**. This is a fundamental capability limitation that applies universally, not situationally.
+
+---
+
+## 2. Recommended Reddit Communities for AI Tool Discovery
+Despite the access limitation, the notes consistently identify a core set of **high-value subreddits** for finding new AI tools:
+- **Most frequently cited:** r/MachineLearning, r/ChatGPT, r/OpenAI, r/artificial, r/AITools
+- These communities appear reliable and active for AI tool discussions
+
+---
+
+## 3. Alternative Discovery Channels Beyond Reddit
+Several notes point to **third-party platforms** as viable substitutes for real-time AI tool discovery:
+- **ProductHunt** – frequently recommended for daily AI launches
+- **Hacker News** – noted as a strong aggregator
+- **Hugging Face** – mentioned for model/tool discovery
+- **AI aggregator sites** (e.g., AITopTools)
+
+---
+
+> **Note:** These research notes are highly repetitive and contain no unique updates or new findings. The underlying content reflects a single repeated response rather than distinct research entries.
