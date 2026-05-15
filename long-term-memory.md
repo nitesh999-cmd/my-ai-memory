@@ -153,3 +153,10 @@ However, I can help you in other ways:
 1. **Search yourself**: Visit Reddit directly and check subreddits like r/OpenAI, r/ChatGPT, r/MachineLearning, or r/AITools
 
 2. **
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or check what's been posted today.
+
+However, I'd suggest you:
+
+1. **Visit Reddit directly** - Check subreddits like r/AI, r/MachineLearning, or r/OpenAI
+2. **Use Reddit's search function** - Search for keywords like "new AI tool" with a date filter for "today"
