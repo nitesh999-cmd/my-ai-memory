@@ -80,3 +80,25 @@ If you are trying to track AI tool updates, these notes should be discarded. To 
 3. **Using a tool capable of real-time web access** to pull relevant information
 
 Would you like help structuring a better research process for tracking AI developments?
+
+## Weekly Summary (2026-05-17)
+# Summary of Top 3 Most Important Updates
+
+After reviewing the research notes, there are no meaningful distinct updates to summarize. However, here are the **3 key recurring themes** present throughout:
+
+---
+
+## 1. 🚫 Real-Time Internet Access Is Not Available
+The AI consistently confirms it **cannot browse the internet, access Reddit, or retrieve current information**. This is a fundamental limitation repeated across all entries.
+
+## 2. 📅 Knowledge Cutoff Is April 2024
+The AI's training data has a **hard stop at April 2024**, meaning any AI tools or developments after that date are outside its awareness.
+
+## 3. 📋 Recommended Self-Service Alternatives
+Users are consistently directed to find AI tools themselves through:
+- **Reddit subreddits** (r/artificial, r/MachineLearning, r/OpenAI, r/ChatGPT, r/AITools)
+- **Aggregator platforms** like ProductHunt and Hugging Face
+
+---
+
+> ⚠️ **Notable Observation:** These notes appear to be **duplicate responses to the same repeated query** rather than true research updates. The notes contain no new findings, discoveries, or actionable insights beyond the same limitations statement. A more productive research approach would be recommended.
