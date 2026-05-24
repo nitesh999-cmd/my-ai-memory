@@ -102,3 +102,37 @@ Users are consistently directed to find AI tools themselves through:
 ---
 
 > ⚠️ **Notable Observation:** These notes appear to be **duplicate responses to the same repeated query** rather than true research updates. The notes contain no new findings, discoveries, or actionable insights beyond the same limitations statement. A more productive research approach would be recommended.
+
+## Weekly Summary (2026-05-24)
+# Summary: These Are Not Research Notes
+
+Before providing a summary, it's important to flag a critical issue: **these notes do not contain meaningful research updates.**
+
+---
+
+## What the Notes Actually Contain
+
+Every single entry is a **repeated AI-generated disclaimer** stating the same three things:
+
+1. **No internet access** – The AI cannot browse Reddit or the web in real-time
+2. **Knowledge cutoff** – Training data ends April 2024
+3. **Suggested workarounds** – Recommending subreddits like r/MachineLearning, r/ChatGPT, and r/OpenAI, plus tools like Product Hunt
+
+---
+
+## Key Observations
+
+- There are **20+ near-identical responses** with no meaningful variation
+- **No actual research, findings, or updates** are present anywhere in the notes
+- The notes appear to be **repeated failed attempts** to get an AI to search Reddit for AI tools
+
+---
+
+## Recommendation
+
+A meaningful summary cannot be produced from this content because **no substantive information exists to summarize.**
+
+To get actual research notes, consider:
+- Visiting the suggested subreddits directly and documenting findings
+- Using a tool with live web access
+- Manually curating discoveries and recording them as structured notes
