@@ -52,3 +52,11 @@ However, I can suggest ways you could find new AI tools:
    - r/Futurology
 
 2. **Use Reddit's search
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or check what's been posted today.
+
+However, I can help you in a few ways:
+
+1. **Search yourself**: Visit reddit.com and check subreddits like r/AI, r/MachineLearning, or r/ToolsForAI for recent discussions
+
+2. **Tell me about tools you find**: If you discover something
