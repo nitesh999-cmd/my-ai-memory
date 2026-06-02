@@ -40,3 +40,15 @@ However, I can suggest some ways you could find new AI tools on Reddit:
    - r/OpenAI
    - r/ChatGPT
    - r/aitools
+
+- I don't have the ability to browse the internet or search Reddit in real-time. I can't access current information or today's posts.
+
+However, I can suggest ways you could find new AI tools:
+
+1. **Visit Reddit directly**: Check subreddits like:
+   - r/OpenAI
+   - r/MachineLearning
+   - r/AITools
+   - r/Futurology
+
+2. **Use Reddit's search
