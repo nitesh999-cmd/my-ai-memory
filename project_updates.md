@@ -162,3 +162,30 @@ To generate a summary worth reviewing, you would need to:
 ---
 
 > **Bottom line:** No summary can be produced from these notes because they contain no research content. The data collection process needs to be repeated using a valid method.
+
+## Weekly Summary (2026-06-07)
+# Summary: Research Notes Are Not Usable
+
+After reviewing all provided notes, I must flag a critical issue before summarizing:
+
+---
+
+## ⚠️ Key Finding: No Substantive Research Content Exists
+
+These notes **do not contain research updates**. Instead, they consist entirely of **repeated AI-generated disclaimers** stating the system cannot access the internet or Reddit in real-time.
+
+---
+
+## The 3 Most Notable Patterns Found
+
+1. **Repeated Limitation Statement** — Every single entry states the same core message: the AI cannot browse the internet or access Reddit in real-time. This appears **16+ times** with minimal variation.
+
+2. **Consistent Workaround Suggestions** — Each entry redirects users to the same Reddit communities (r/artificial, r/MachineLearning, r/OpenAI, r/ChatGPT, r/AITools) and external sites like Product Hunt.
+
+3. **Incomplete/Truncated Entries** — Several notes are **cut off mid-sentence**, suggesting the data collection process itself was flawed or incomplete.
+
+---
+
+## Recommendation
+
+These notes should be **discarded and recollected**. To generate a meaningful summary, please provide notes containing **actual research findings, data, or discoveries** rather than AI refusal messages.
