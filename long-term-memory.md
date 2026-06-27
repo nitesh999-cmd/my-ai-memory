@@ -171,3 +171,10 @@ However, I can suggest ways you could find new AI tools:
 
 1. **Visit Reddit directly**: Check subreddits like r/artificial, r/MachineLearning, or r/OpenAI
 2. **Use AI aggregator sites**: ProductHunt, Hugging Face, or Papers with Code
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or access current information beyond my training data (April 2024).
+
+However, I can suggest ways you could find new AI tools:
+
+1. **Visit Reddit directly**: Check subreddits like r/AI, r/MachineLearning, or r/OpenAI
+2. **Use AI tool aggregators**: ProductHunt, Hugging
