@@ -67,3 +67,14 @@ However, I can help you in other ways:
 1. **You could search yourself** on Reddit's r/AITools or r/MachineLearning subreddits
 2. **I can discuss** AI tools you've already heard about
 3. **I can explain** how different categories of AI tools work
+
+- I don't have the ability to search Reddit or access the internet in real-time. I can't browse websites or check current information.
+
+However, I can suggest ways you could find new AI tools on Reddit:
+
+1. **Search directly**: Visit reddit.com and search subreddits like:
+   - r/artificial
+   - r/MachineLearning
+   - r/OpenAI
+   - r/ChatGPT
+   - r
