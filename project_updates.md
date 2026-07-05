@@ -253,3 +253,25 @@ These notes contain **no meaningful research updates**. Here are the top 3 takea
 ---
 
 **Recommendation:** These notes should be discarded and the research approach revised. Instead of asking an AI to browse Reddit, visit the recommended subreddits and aggregator sites directly to gather the intended information.
+
+## Weekly Summary (2026-07-05)
+## Summary of Research Notes
+
+After reviewing all provided notes, there are **no meaningful updates to summarize**. The notes contain only one repeated piece of information:
+
+**The AI system cannot access the internet or Reddit in real-time**, and it consistently redirects users to find information themselves.
+
+---
+
+### What the Notes Actually Contain:
+
+1. **A single repeated message** - The same response stating real-time internet/Reddit access is unavailable, copied approximately 19 times with minor variations.
+
+2. **Suggested workarounds** - Each note recommends the same alternatives: visiting Reddit subreddits (r/MachineLearning, r/ChatGPT, r/OpenAI, etc.) and using sites like ProductHunt.
+
+3. **No actual research data** - There are no findings, discoveries, tool updates, or substantive information present.
+
+---
+
+### Recommendation:
+These notes appear to be **failed query attempts** rather than research findings. To generate a meaningful summary, you would need to provide notes containing actual content, such as specific AI tool updates, features, or announcements.
