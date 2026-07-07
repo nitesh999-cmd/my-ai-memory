@@ -39,3 +39,11 @@ However, I can help you find new AI tools by:
    - r/OpenAI
    - r/ChatGPT
    - r/AITools
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or retrieve current information from today.
+
+However, I can help you in other ways:
+
+1. **You could search Reddit directly** - Visit r/artificial or r/ChatGPT and sort by "new" or "today"
+2. **I can discuss** AI tools if you find one and want to learn more about it
+3. **I can
