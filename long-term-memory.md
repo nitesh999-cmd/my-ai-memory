@@ -158,3 +158,10 @@ However, I can help you find new AI tools by:
    - r/SideProject
 
 2. **Other discovery sites
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or check current information.
+
+However, I can suggest ways you could find new AI tools:
+
+1. **Visit Reddit directly**: Check subreddits like r/ArtificialIntelligence, r/MachineLearning, or r/singularity
+2. **Try AI aggregator sites**: ProductHunt, AlternativeTo,
