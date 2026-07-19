@@ -187,3 +187,11 @@ However, I can suggest ways you could find new AI tools:
    - r/aitools
    - r/MachineLearning
    - r/ChatGP
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or check current information.
+
+However, I can suggest a few ways you could find new AI tools on Reddit:
+
+1. **Visit r/ChatGPT, r/OpenAI, or r/AITools** - These communities regularly discuss new AI tools
+2. **Check r/ProductHunt** - New tools are often shared here first
+3.
