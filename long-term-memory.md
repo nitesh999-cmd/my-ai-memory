@@ -209,3 +209,14 @@ However, I'd suggest:
    - r/SideProject
 
 2. **Use Reddit
+
+- I don't have the ability to search Reddit or access real-time information from the internet. I can't browse websites or see current posts.
+
+However, I can suggest a few ways you could find new AI tools on Reddit:
+
+1. **Subreddits to check:**
+   - r/OpenAI
+   - r/ChatGPT
+   - r/artificial
+   - r/MachineLearning
+   - r/Language
