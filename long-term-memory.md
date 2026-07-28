@@ -65,3 +65,14 @@ However, I can suggest some ways you could find new AI tools:
 
 2. **What I can do instead:**
    - Tell you about popular AI tools that exist (ChatGPT, Claude, Midjourney, etc.)
+
+- I don't have the ability to search Reddit or browse the internet in real-time. I can't access current information or see what's trending today.
+
+However, I can suggest some ways **you** could find new AI tools on Reddit:
+
+1. **Subreddits to check:**
+   - r/artificial
+   - r/OpenAI
+   - r/ChatGPT
+   - r/MachineLearning
+   - r/
