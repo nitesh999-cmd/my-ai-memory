@@ -58,3 +58,10 @@ However, I can suggest some ways you could find new AI tools:
    - r/ToolsForTeachers
 
 2
+
+- I appreciate the request, but I should clarify a couple of limitations:
+
+1. **I can't search the internet** - I don't have real-time access to Reddit or other websites. My knowledge was last updated in April 2024, so I can't tell you what's trending today.
+
+2. **What I can do instead:**
+   - Tell you about popular AI tools that exist (ChatGPT, Claude, Midjourney, etc.)
