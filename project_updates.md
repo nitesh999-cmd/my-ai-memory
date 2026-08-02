@@ -340,3 +340,28 @@ These notes **do not contain research updates**. Instead, they are **20+ nearly 
 ---
 
 > **Recommendation:** If you have actual research notes you'd like summarized, please share those and I'm happy to help.
+
+## Weekly Summary (2026-08-02)
+# Summary of Research Notes: Top 3 Key Findings
+
+---
+
+## 1. 🚫 Consistent AI Limitation: No Real-Time Internet Access
+Every single note confirms the same core limitation — the AI **cannot search the internet, browse Reddit, or retrieve current information**. This is the dominant and most repeated finding across all entries, making it the most critical takeaway.
+
+---
+
+## 2. 📅 Fixed Knowledge Cutoff Date
+Multiple notes specifically identify a **knowledge cutoff of April 2024**, meaning any AI-generated information about tools, trends, or developments is potentially outdated. This is an important constraint to factor into any research workflow relying on this AI.
+
+---
+
+## 3. 📋 Consistent Alternative Recommendations Provided
+Despite its limitations, the AI consistently directs users toward the **same self-service discovery channels**, including:
+- **Reddit communities** (r/artificial, r/MachineLearning, r/OpenAI, r/ChatGPT, r/AITools)
+- **External platforms** such as Product Hunt and Hugging Face
+
+---
+
+## ⚠️ Notable Observation
+These notes contain **no unique research findings** — they are near-identical repeated responses. The notes themselves may reflect a **data collection or logging issue** worth investigating, as no new information was captured across 20+ entries.
