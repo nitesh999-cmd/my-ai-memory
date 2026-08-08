@@ -196,3 +196,16 @@ However, I can help you in other ways:
 1. **Search yourself**: Visit Reddit.com and check subreddits like r/ChatGPT, r/OpenAI, r/LanguageModels, or r/AITools to see today's posts
 
 2. **Tell me what
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse current websites or see today's posts.
+
+However, I can suggest ways you could find new AI tools on Reddit:
+
+1. **Subreddits to check:**
+   - r/artificial
+   - r/MachineLearning
+   - r/ChatGPT
+   - r/OpenAI
+   - r/AITools
+
+2
