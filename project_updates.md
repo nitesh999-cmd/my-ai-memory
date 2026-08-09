@@ -365,3 +365,26 @@ Despite its limitations, the AI consistently directs users toward the **same sel
 
 ## ⚠️ Notable Observation
 These notes contain **no unique research findings** — they are near-identical repeated responses. The notes themselves may reflect a **data collection or logging issue** worth investigating, as no new information was captured across 20+ entries.
+
+## Weekly Summary (2026-08-09)
+# Summary: Top 3 Key Findings from Research Notes
+
+---
+
+## 1. 🚫 Consistent Limitation: No Real-Time Internet Access
+Every single entry confirms the same core limitation — the AI **cannot browse the internet, access Reddit, or retrieve current information**. This is a universal and repeated constraint across all notes, with a knowledge cutoff noted as **April 2024**.
+
+---
+
+## 2. 📋 Recommended Reddit Communities for AI Tool Discovery
+Despite the limitation, the notes consistently point to a reliable set of subreddits for finding new AI tools, with the most frequently mentioned being:
+- **r/MachineLearning**, **r/OpenAI**, **r/ChatGPT**, **r/artificial**, and **r/AITools**
+
+---
+
+## 3. ⚠️ Low Research Value — Highly Repetitive Content
+The notes contain **20+ nearly identical responses** with no new insights or unique information across entries. The data appears to be **duplicate outputs** rather than meaningful research, suggesting a **need to collect substantively different sources** before a useful analysis can be produced.
+
+---
+
+> **Recommendation:** These notes do not contain actionable research updates. A new data collection effort with varied, substantive sources is advised.
