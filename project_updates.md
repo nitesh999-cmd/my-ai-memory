@@ -388,3 +388,23 @@ The notes contain **20+ nearly identical responses** with no new insights or uni
 ---
 
 > **Recommendation:** These notes do not contain actionable research updates. A new data collection effort with varied, substantive sources is advised.
+
+## Weekly Summary (2026-08-16)
+# Summary: Top 3 Key Takeaways from Research Notes
+
+---
+
+## 1. 🚫 No Real-Time Internet or Reddit Access
+The AI consistently cannot browse the internet, access Reddit, or retrieve current information. This is a hard limitation that appears **across all entries** without exception.
+
+## 2. 📅 Knowledge Cutoff is April 2024
+The AI's information is static, frozen at **April 2024**. Any AI tools, posts, or developments after that date are completely inaccessible to it.
+
+## 3. 🔁 Repeated Redirect to the Same Resources
+Rather than providing direct answers, the AI consistently redirects users to the same alternatives, including:
+- **Reddit subreddits**: r/ChatGPT, r/OpenAI, r/MachineLearning, r/artificial, r/AITools
+- **External platforms**: Product Hunt, Hugging Face, Hacker News, Twitter/X
+
+---
+
+> **Notable Pattern:** These notes contain no unique or evolving insights — all ~20 entries are **near-identical repetitions** of the same response. The notes themselves may reflect a data collection or testing exercise rather than genuine research findings.
