@@ -84,3 +84,11 @@ However, I can suggest some ways you could find new AI tools on Reddit:
 1. **Visit r/artificial or r/OpenAI** - Active communities discussing new AI developments
 2. **Check r/SideProject or r/startup** - Where people often share new tools
 3. **Search r/Mac
+
+- I appreciate the request, but I should clarify what I can and can't do:
+
+**I can't actually search Reddit** in real-time. I don't have internet access or the ability to browse websites. My knowledge was last updated in April 2024, so I can't tell you what's trending "today."
+
+**What I can do instead:**
+
+1. **You could search yourself**: Visit reddit.com and check subreddits like r/AITools
