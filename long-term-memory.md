@@ -166,3 +166,11 @@ However, I can suggest some ways you could find new AI tools on Reddit:
    - r/OpenAI
    - r/ChatGPT
    - r/AITools
+
+- I don't have the ability to search the internet or access Reddit in real-time. My knowledge was last updated in April 2024, and I can't browse websites or access current information.
+
+However, I can help you in a few ways:
+
+1. **You could search Reddit directly** - Try r/artificial, r/ChatGPT, r/OpenAI, or r/MachineLearning for recent AI tool discussions
+
+2. **Tell me
