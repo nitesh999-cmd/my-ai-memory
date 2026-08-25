@@ -57,3 +57,10 @@ However, I can suggest a few ways you could find new AI tools on Reddit:
    - r/AITools
    - r/OpenAI
    - r/LocalLLM
+
+- I don't have the ability to browse the internet or search Reddit in real-time. I can't access current information or today's posts.
+
+However, I can suggest ways you could find new AI tools:
+
+1. **Visit Reddit directly**: Check subreddits like r/aitools, r/MachineLearning, or r/OpenAI
+2. **Use Reddit's search**: Search "new AI tool" with a date filter for "today"
