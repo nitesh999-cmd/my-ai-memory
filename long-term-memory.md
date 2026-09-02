@@ -57,3 +57,13 @@ However, I'd be happy to help if you:
 
 1. **Share a link or description** of an AI tool you found on Reddit, and I can discuss it with you
 2. **Tell me what kind of AI tool you're interested in** (coding, image generation, writing, etc.), and I can suggest some popular options
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or access current information beyond my training data (April 2024).
+
+However, I can suggest ways you could find new AI tools:
+
+1. **Visit Reddit directly**: Check subreddits like:
+   - r/artificial
+   - r/ChatGPT
+   - r/MachineLearning
+   - r/ToolJerk
