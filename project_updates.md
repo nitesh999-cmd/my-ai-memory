@@ -454,3 +454,30 @@ The notes are **17 nearly identical repetitions** of the same AI chatbot respons
 ## My Recommendation
 
 To get a meaningful summary, you would need to provide notes containing actual research content such as findings, experiments, articles, or updates. I am happy to help summarize **real research notes** if you have them available.
+
+## Weekly Summary (2026-09-06)
+# Summary: Top 3 Key Takeaways from Research Notes
+
+---
+
+## 1. 🚫 No Real-Time Internet or Reddit Access
+The most consistent and critical finding across all notes is that the AI **cannot browse the internet or access Reddit in real-time**. This is a fundamental capability limitation that applies universally, with a noted training data cutoff of **April 2024**.
+
+---
+
+## 2. 📋 Recommended Subreddits for AI Tool Discovery
+Despite the access limitation, the notes consistently identify the same core subreddits as the best places to manually search for new AI tools:
+- **r/ChatGPT, r/OpenAI, r/MachineLearning, r/artificial** — mentioned most frequently across entries
+
+---
+
+## 3. 🌐 Alternative Discovery Channels Beyond Reddit
+The notes repeatedly point to **external AI aggregator platforms** as reliable alternatives, including:
+- **Product Hunt**
+- **Hugging Face**
+- **"There's an AI for That"** (tool directory)
+
+---
+
+### ⚠️ Notable Observation
+These notes appear to be **repetitive logs of the same AI response**, rather than genuine research findings. There are **no unique updates or new information** across entries — all content is essentially identical. A review of the data collection process may be warranted.
