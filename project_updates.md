@@ -481,3 +481,31 @@ The notes repeatedly point to **external AI aggregator platforms** as reliable a
 
 ### ⚠️ Notable Observation
 These notes appear to be **repetitive logs of the same AI response**, rather than genuine research findings. There are **no unique updates or new information** across entries — all content is essentially identical. A review of the data collection process may be warranted.
+
+## Weekly Summary (2026-09-13)
+# Summary: Top 3 Key Insights from Research Notes
+
+---
+
+## 1. 🚫 Consistent Limitation: No Real-Time Internet Access
+Every single note confirms the **same core limitation** — the AI cannot search the internet, access Reddit, or retrieve current information. This is a fundamental and unchanging constraint across all entries, with one note specifying a **knowledge cutoff of April 2024**.
+
+---
+
+## 2. 📋 Recommended Subreddits Are Highly Repetitive
+Across all notes, the same subreddits are repeatedly suggested, with the most frequently mentioned being:
+- **r/MachineLearning, r/OpenAI, r/ChatGPT, r/artificial** — appearing in the majority of entries
+- These recommendations are **not new insights** but recycled alternatives offered in place of direct assistance
+
+---
+
+## 3. 🔧 Alternative Discovery Methods Are Consistently Offered
+Beyond Reddit, the notes repeatedly point to the same **third-party resources**, including:
+- **Product Hunt** — for daily AI tool launches
+- **"There's An AI For That"** — as an aggregator
+- **Hugging Face** — for model discovery
+- **Reddit's own search filters** (e.g., "past 24 hours")
+
+---
+
+> **⚠️ Overall Takeaway:** These notes contain **no unique research findings** — they are near-identical repetitive responses acknowledging the same limitation and offering the same workarounds.
