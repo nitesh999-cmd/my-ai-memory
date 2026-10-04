@@ -552,3 +552,30 @@ The research process needs to be restarted using a method that can actually retr
 - **Manually visiting** the suggested subreddits directly
 - **Using a web-enabled tool** capable of real-time browsing
 - **Checking** ProductHunt, Futurepedia, or Hugging Face directly
+
+## Weekly Summary (2026-10-04)
+# Summary of Top 3 Key Findings from Research Notes
+
+---
+
+## 1. Consistent Real-Time Limitation
+The most critical and repeated finding across **all notes** is that the AI system has **no ability to browse the internet or access Reddit in real-time**. This is a fundamental capability constraint that appears in every single entry without exception.
+
+---
+
+## 2. Recommended Reddit Communities for AI Tool Discovery
+Despite the limitation above, the notes consistently identify a **core set of subreddits** as the best places to find new AI tools:
+- r/artificial, r/MachineLearning, r/OpenAI, r/ChatGPT, and r/aitools appear most frequently across entries
+
+---
+
+## 3. Alternative Discovery Channels Beyond Reddit
+The notes repeatedly point to **third-party platforms** as reliable workarounds:
+- **Product Hunt** – highlighted most frequently as a daily source of new AI tools
+- **Hugging Face & Papers with Code** – recommended for more technical discoveries
+- **AI newsletters and aggregator sites** – mentioned as ongoing sources
+
+---
+
+### ⚠️ Notable Observation
+These notes appear to be **duplicate or near-identical AI responses** rather than original research. There are no unique insights or new data points across the entries — the content is highly repetitive and may not be a reliable foundation for meaningful analysis.
