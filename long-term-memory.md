@@ -113,3 +113,10 @@ However, I can help you in a few ways:
 1. **Search yourself**: Visit reddit.com and search subreddits like r/AI, r/MachineLearning, or r/singularity for the latest tool discussions
 
 2. **Tell me what you find**: If you discover an AI tool and want
+
+- I don't have the ability to search the internet or access Reddit in real-time. My knowledge was last updated in April 2024, and I can't browse websites or check current information.
+
+However, I can suggest ways you could find new AI tools:
+
+1. **Visit Reddit directly**: Check subreddits like r/AI, r/MachineLearning, r/OpenAI, or r/ChatGPT
+2. **Use AI tool
