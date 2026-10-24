@@ -111,3 +111,14 @@ However, I can help you in other ways:
    - r/PromptEngineering
 
 2. **I can discuss** AI
+
+- I don't have the ability to search Reddit or access the internet in real time. I can't browse websites or retrieve current information from today.
+
+However, I can suggest some ways you could find new AI tools on Reddit:
+
+1. **Subreddits to check:**
+   - r/OpenAI
+   - r/ChatGPT
+   - r/artificial
+   - r/MachineLearning
+   - r/SideProject
