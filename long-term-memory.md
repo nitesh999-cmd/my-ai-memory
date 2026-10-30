@@ -103,3 +103,12 @@ However, I can suggest a few ways you could find new AI tools on Reddit:
    - r/OpenAI
    - r/stablediffusion
    - r/ChatG
+
+- I don't have the ability to search the internet or access Reddit in real-time. My knowledge was last updated in April 2024, and I can't browse current websites or see today's posts.
+
+However, I can help you find new AI tools if you'd like! Here are some ways to search yourself:
+
+1. **Visit Reddit directly**: Go to subreddits like:
+   - r/artificial
+   - r/OpenAI
+   - r
