@@ -121,3 +121,10 @@ However, I'd be happy to help if you:
 - **Ask me** about AI tools in general categories (coding, writing, image generation, etc.)
 
 If you'd like to
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or check what's currently trending today.
+
+However, I can suggest some ways you could find new AI tools:
+
+1. **Visit Reddit directly**: Check subreddits like r/artificial, r/MachineLearning, or r/OpenAI
+2. **AI discovery sites**: ProductHunt, Hugging Face, or Papers with Code
