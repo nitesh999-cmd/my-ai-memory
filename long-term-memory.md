@@ -112,3 +112,12 @@ However, I can help you find new AI tools if you'd like! Here are some ways to s
    - r/artificial
    - r/OpenAI
    - r
+
+- I don't have the ability to browse the internet or access Reddit in real-time. I can't search for current posts or today's information.
+
+However, I'd be happy to help if you:
+- **Share a link** to a Reddit post about an AI tool you found
+- **Describe** an AI tool you're curious about
+- **Ask me** about AI tools in general categories (coding, writing, image generation, etc.)
+
+If you'd like to
