@@ -670,3 +670,29 @@ Users are consistently directed to self-serve alternatives, including:
 ---
 
 > **Notable Pattern:** These notes are highly repetitive, containing essentially the same response ~14 times. There are **no meaningful unique updates** across the entries — the core message is identical throughout.
+
+## Weekly Summary (2026-11-08)
+# Summary: Top 3 Key Findings from Research Notes
+
+---
+
+## 1. 🚫 No Real-Time Internet or Reddit Access
+The most consistently repeated finding across **all notes** is that the AI system fundamentally **cannot browse the internet, access Reddit, or retrieve live information**. This is a core technical limitation that applies universally, regardless of how the request is framed.
+
+---
+
+## 2. 📋 Recommended Subreddits for AI Tool Discovery
+Despite the limitation above, the notes consistently point to a **reliable set of subreddits** for finding new AI tools:
+- **Most frequently mentioned:** r/MachineLearning, r/OpenAI, r/ChatGPT, r/artificial, r/AITools
+- **Also noted:** r/LanguageModels, r/stablediffusion, r/FutureTechnology
+
+---
+
+## 3. 🔍 Alternative Discovery Methods Beyond Reddit
+The notes repeatedly suggest **supplementary platforms** for AI tool discovery:
+- **Aggregator sites:** Product Hunt, Hugging Face, GitHub Trending
+- **Reddit search tips:** Using time filters (e.g., "Today") and sorting by "New"
+
+---
+
+> ⚠️ **Notable Observation:** These notes appear to be **duplicate AI responses** to similar queries rather than original research. The underlying research data may need to be revisited for more substantive findings.
