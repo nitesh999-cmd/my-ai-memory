@@ -17,3 +17,14 @@ However, I can suggest some ways you could find new AI tools:
 
 1. **Visit Reddit directly**: Check subreddits like r/OpenAI, r/MachineLearning, r/artificial, or r/ChatGPT
 2. **AI tool aggregators**: Websites like Product Hunt, There
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or retrieve current information from today.
+
+However, I can suggest some ways you could find new AI tools:
+
+1. **Visit Reddit directly**: Check subreddits like:
+   - r/artificial
+   - r/OpenAI
+   - r/MachineLearning
+   - r/ChatGPT
+   - r/Side
