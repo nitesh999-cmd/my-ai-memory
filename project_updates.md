@@ -696,3 +696,30 @@ The notes repeatedly suggest **supplementary platforms** for AI tool discovery:
 ---
 
 > ⚠️ **Notable Observation:** These notes appear to be **duplicate AI responses** to similar queries rather than original research. The underlying research data may need to be revisited for more substantive findings.
+
+## Weekly Summary (2026-11-15)
+# Summary: Research Notes Review
+
+After reviewing the provided notes, I must flag a critical issue before summarizing:
+
+---
+
+## ⚠️ Important Finding
+
+**These notes do not contain meaningful research updates.** All 13 entries are **near-identical repeated responses** stating the same core message: that the AI cannot access Reddit or browse the internet in real-time.
+
+---
+
+## Top 3 Key Takeaways
+
+1. **Real-Time Internet Access is Unavailable** — The AI system consistently lacks the ability to browse the web, access Reddit, or retrieve live information from current sources.
+
+2. **Knowledge Cutoff Limitation** — Where specified, the training data has a cutoff of **April 2024**, meaning no information beyond that date is available natively.
+
+3. **Community Resources Were Repeatedly Suggested** — The same Reddit communities were consistently recommended as alternatives, including **r/MachineLearning, r/OpenAI, r/ChatGPT, r/artificial, and r/aitools**.
+
+---
+
+## Recommendation
+
+> These notes appear to be **duplicate AI-generated responses** rather than genuine research findings. It is strongly advised to **review the note-taking process** to ensure meaningful, varied research is being captured before further analysis is conducted.
