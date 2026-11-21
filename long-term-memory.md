@@ -113,3 +113,13 @@ I **don't have the ability to search the internet or Reddit** in real-time. My k
 However, I can help you in other ways:
 
 1. **Search yourself**: Visit reddit.com and try subreddits like r/AI, r/MachineLearning, or
+
+- I appreciate the request, but I should clarify a couple of things:
+
+1. **I can't browse the internet** - I don't have real-time access to Reddit or any websites. I can't search the web or pull current information.
+
+2. **My knowledge has a cutoff date** - I was trained on data up to April 2024, so I can't tell you what's new "today."
+
+**What I can suggest instead:**
+
+- Visit
