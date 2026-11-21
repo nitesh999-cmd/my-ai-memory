@@ -123,3 +123,14 @@ However, I can help you in other ways:
 **What I can suggest instead:**
 
 - Visit
+
+- I don't have the ability to search the internet or access Reddit in real-time. I can't browse websites or retrieve current information from today.
+
+However, I can suggest some ways you could find new AI tools:
+
+1. **Search Reddit directly** - Try subreddits like:
+   - r/artificial
+   - r/MachineLearning
+   - r/OpenAI
+   - r/ChatGPT
+   - r/ai
