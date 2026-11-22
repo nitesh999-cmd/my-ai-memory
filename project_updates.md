@@ -723,3 +723,18 @@ After reviewing the provided notes, I must flag a critical issue before summariz
 ## Recommendation
 
 > These notes appear to be **duplicate AI-generated responses** rather than genuine research findings. It is strongly advised to **review the note-taking process** to ensure meaningful, varied research is being captured before further analysis is conducted.
+
+## Weekly Summary (2026-11-22)
+# Summary of Research Notes
+
+These notes do not contain meaningful research updates. Instead, they represent **repeated identical responses** from an AI assistant. Here are the top 3 takeaways:
+
+1. **The AI cannot access real-time information** - Every note consistently states the assistant lacks the ability to browse the internet or search Reddit live, making it unable to retrieve current AI tool updates.
+
+2. **Knowledge is capped at April 2024** - The assistant repeatedly acknowledges a hard training data cutoff, meaning any requests for "today's" or recent information cannot be fulfilled.
+
+3. **The same workaround is suggested every time** - Each response deflects to recommending the same list of subreddits (r/MachineLearning, r/OpenAI, r/ChatGPT, r/AITools, etc.) as a manual alternative.
+
+---
+
+**⚠️ Important Note:** These notes appear to be the result of the same question being asked repeatedly to an AI chatbot. There are **no actual research findings here**. If you intended to gather real research notes, the data collection process may need to be revisited.
